@@ -1,0 +1,85 @@
+body {
+	background: linear-gradient(90deg, rgba(36,5,0,1) 0%, rgba(164,211,211,1) 0%, rgba(206,238,244,1) 66%);
+}
+
+.header{
+    font-size: 350px;
+    font-weight: bolder;
+}
+
+.FBHeader{
+    padding-top: 3%;
+    font-size: 30px;
+    background: -webkit-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 0%, rgba(246,41,12,1) 51%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#navbarHeader{
+    padding-top: 2%; 
+    text-align: center; 
+    font-size: 50px; 
+    color: white; 
+    -webkit-text-stroke-width: .4px;
+    -webkit-text-stroke-color: black;
+}
+
+a
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #ffffff;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+p{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 15px;
+}
+
+#input{
+    height:30px; 
+    font-size:14pt;
+    size: 50;
+}
+
+#message{
+    font-size:12pt;
+}
+
+.crop {
+    width: 260px;
+    height: 260px;
+    overflow: hidden;
+}
+
+.headerLogo {
+    width: 260px;
+    height: 260px;
+    margin: -50px 0 1px;
+}
+
+.homeImg{
+    width:300px;
+    height:400px;
+}
