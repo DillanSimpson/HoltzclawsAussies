@@ -40,7 +40,9 @@ a
 
 p{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
 }
 
 div.form
